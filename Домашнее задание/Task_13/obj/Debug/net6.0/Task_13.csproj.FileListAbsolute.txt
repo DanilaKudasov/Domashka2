@@ -1,0 +1,15 @@
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\bin\Debug\net6.0\Task_13.exe
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\bin\Debug\net6.0\Task_13.deps.json
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\bin\Debug\net6.0\Task_13.runtimeconfig.json
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\bin\Debug\net6.0\Task_13.dll
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\bin\Debug\net6.0\Task_13.pdb
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\obj\Debug\net6.0\Task_13.csproj.AssemblyReference.cache
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\obj\Debug\net6.0\Task_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\obj\Debug\net6.0\Task_13.AssemblyInfoInputs.cache
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\obj\Debug\net6.0\Task_13.AssemblyInfo.cs
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\obj\Debug\net6.0\Task_13.csproj.CoreCompileInputs.cache
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\obj\Debug\net6.0\Task_13.dll
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\obj\Debug\net6.0\refint\Task_13.dll
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\obj\Debug\net6.0\Task_13.pdb
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\obj\Debug\net6.0\Task_13.genruntimeconfig.cache
+C:\Users\Данила\Desktop\учеба\Семинар 2\Домашнее задание\Task_13\obj\Debug\net6.0\ref\Task_13.dll
