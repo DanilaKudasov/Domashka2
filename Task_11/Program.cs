@@ -9,6 +9,6 @@ int number = new Random().Next(100, 1000);
 Console.WriteLine($"Number = {number}");
 int first = number / 100;
 int last = number % 10;
-int res = first *10+ last;
+int res = first * 10 + last;
 Console.WriteLine($"Random number = {number}");
 Console.WriteLine($"Result = {res}");
